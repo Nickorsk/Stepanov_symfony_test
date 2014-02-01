@@ -1,0 +1,13 @@
+<?php
+
+namespace Stepanov\MarketBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * ProductCategory
+ */
+class ProductCategory
+{
+
+}

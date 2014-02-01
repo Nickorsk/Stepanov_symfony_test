@@ -1,0 +1,72 @@
+.logout{
+    float: right;
+    margin-right: 500px;
+    margin-top: 15px;
+    color:#fff;
+}
+
+.space{
+    width:100%;
+    height: 10px;
+}
+.prod{
+    width: 850px;
+    margin: 0 auto;
+    color: #a8a7a8;
+    margin-top: 50px;
+}
+.prod h1{
+    font-size: 24px;
+    padding: 10px;
+}
+.prod h1,td{
+    text-align: center;
+}
+.prod th{ padding: 0 40px }
+
+.prod td{
+
+}
+
+.prod  a{
+    color: #1e90ff;
+}
+
+.sf-reset  a{
+    color: #1e90ff;
+    font-size: 15px;
+}
+
+.prod button{
+    background: #fff;
+    border-radius: 15px;
+    margin-left: 420px;
+    cursor: pointer;
+}
+input[type=text], input[type=password],input[type=email],input[type=submit]{
+    margin-top: 10px;
+
+}
+
+input[type=submit]{
+    float: right;
+    text-shadow: 1px 1px 1px black;
+    background: rgba(0, 0, 0, 0.16);
+    border-radius: 77px;
+    color: #fff;
+}
+
+.back-a{
+    float: right;
+
+    display: block;
+}
+
+.logout{
+    float: right;
+    color: #1e90ff;
+}
+
+input[type=file]{
+    width: 300px;
+}

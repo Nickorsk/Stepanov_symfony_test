@@ -1,0 +1,7 @@
+parameters:
+#    market.example.class: Stepanov\MarketBundle\Example
+
+services:
+#    market.example:
+#        class: %market.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

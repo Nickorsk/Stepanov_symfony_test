@@ -1,0 +1,31 @@
+post:
+    pattern:  /show_all
+    defaults: { _controller: "StepanovMarketBundle:Product:index" }
+
+post_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "StepanovMarketBundle:Product:show" }
+
+post_new:
+    pattern:  /new
+    defaults: { _controller: "StepanovMarketBundle:Product:new" }
+
+post_create:
+    pattern:  /create
+    defaults: { _controller: "StepanovMarketBundle:Product:create" }
+    requirements: { _method: post }
+
+post_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "StepanovMarketBundle:Product:edit" }
+
+post_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "StepanovMarketBundle:Product:update" }
+    requirements: { _method: post|put }
+
+post_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "StepanovMarketBundle:Product:delete" }
+    requirements: { _method: post|delete }
+

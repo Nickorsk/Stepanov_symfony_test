@@ -1,0 +1,9 @@
+{% extends "FOSUserBundle::layout.html.twig" %}
+{% block stylesheets %}
+    {{ parent() }}
+    <link href="{{ asset('bundles/stepanovmarket/css/login.css') }}" type="text/css" rel="stylesheet" />
+    <link href="{{ asset('bundles/stepanovmarket/css/register.css') }}" type="text/css" rel="stylesheet" />
+{% endblock %}
+{% block fos_user_content %}
+{% include "FOSUserBundle:Registration:register_content.html.twig" %}
+{% endblock fos_user_content %}

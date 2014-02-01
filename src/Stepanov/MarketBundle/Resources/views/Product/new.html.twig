@@ -1,0 +1,35 @@
+{% extends '::base.html.twig' %}
+
+{% block stylesheets %}
+    {{ parent() }}
+    <link href="{{ asset('bundles/stepanovmarket/css/login.css') }}" type="text/css" rel="stylesheet" />
+    <link href="{{ asset('bundles/stepanovmarket/css/colors-theme-prod.css') }}" type="text/css" rel="stylesheet" />
+    <link href="{{ asset('bundles/stepanovmarket/css/main.css') }}" type="text/css" rel="stylesheet" />
+
+{% endblock %}
+
+{% block body -%}
+<div class="prod">
+        <h1>Создать новый товар</h1>
+        <a href="{{ path('post') }}" class="back-a">Вернуться к списку товаров</a>
+    <form action="{{ path('post_create') }}" method="post" enctype="multipart/form-data">
+        {{ form_errors(form) }}
+        <div class="form_row">
+            {{ form_label(form.name) }}
+            {{ form_errors(form.name) }}
+            {{ form_widget(form.name) }}
+        </div>
+        <div class="form_row">
+            {{ form_label(form.image) }}
+            {{ form_errors(form.image) }}
+            {{ form_widget(form.image) }}
+        </div>
+        <div class="form_row">
+            {{ form_label(form.price) }}
+            {{ form_errors(form.price) }}
+            {{ form_widget(form.price) }}
+        </div>
+        {{ form_rest(form) }}
+    </form>
+</div>
+{% endblock %}

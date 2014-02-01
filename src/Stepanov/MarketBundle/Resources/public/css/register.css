@@ -1,0 +1,12 @@
+input[type=text], input[type=password],input[type=email],input[type=submit]{
+    margin-top: 10px;
+
+}
+
+input[type=submit]{
+    float: right;
+    text-shadow: 1px 1px 1px black;
+    background: rgba(0, 0, 0, 0.16);
+    border-radius: 77px;
+    color: #fff;
+}

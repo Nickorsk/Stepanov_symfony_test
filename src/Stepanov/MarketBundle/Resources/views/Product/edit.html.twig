@@ -1,0 +1,21 @@
+{% extends '::base.html.twig' %}
+{% block stylesheets %}
+    {{ parent() }}
+    <link href="{{ asset('bundles/stepanovmarket/css/login.css') }}" type="text/css" rel="stylesheet" />
+    <link href="{{ asset('bundles/stepanovmarket/css/colors-theme-prod.css') }}" type="text/css" rel="stylesheet" />
+    <link href="{{ asset('bundles/stepanovmarket/css/main.css') }}" type="text/css" rel="stylesheet" />
+
+{% endblock %}
+
+{% block body -%}
+<div class="prod">
+        <h1>Редактирование товара</h1>
+    <a href="{{ path('post') }}" class="back-a">Вернуться к списку товаров</a>
+    <div class="space"></div>
+        {{ form(edit_form) }}
+
+
+        {{ form(delete_form) }}
+
+</div>
+{% endblock %}

@@ -1,0 +1,12 @@
+#market_homepage:
+#    pattern:  /hello/{name}
+#    defaults: { _controller: MarketBundle:Default:index }
+
+_welcome:
+    path:  /
+    defaults: { _controller: StepanovMarketBundle:Welcome:index }
+
+_product:
+    resource: "@StepanovMarketBundle/Resources/config/routing/product.yml"
+_category:
+    resource: "@StepanovMarketBundle/Resources/config/routing/category.yml"

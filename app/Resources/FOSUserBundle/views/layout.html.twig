@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        {% block stylesheets %}
+           <link href="{{ asset('bundles/stepanovmarket/css/main.css') }}" type="text/css" rel="stylesheet" />
+        {% endblock %}
+    </head>
+    <body>
+              {% if is_granted("IS_AUTHENTICATED_REMEMBERED") %}
+
+                <a class="logout" href="{{ path('fos_user_security_logout') }}">
+                    Выход
+                </a>
+            {% else %}
+                <i class="logout">Вы не авторизированны</i>
+            {% endif %}
+
+        {% for type, messages in app.session.flashBag.all %}
+            {% for message in messages %}
+                <div class="{{ type }}">
+                    {{ message|trans({}, 'FOSUserBundle') }}
+                </div>
+            {% endfor %}
+        {% endfor %}
+        <div class="space"></div>
+        <div>
+            {% block fos_user_content %}
+            {% endblock fos_user_content %}
+        </div>
+    </body>
+</html>

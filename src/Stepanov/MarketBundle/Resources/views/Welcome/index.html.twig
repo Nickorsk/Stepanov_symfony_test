@@ -1,0 +1,23 @@
+{% extends 'StepanovMarketBundle::layout.html.twig' %}
+
+{% block title %}Тестовый проект Степанова Н.М.{% endblock %}
+
+{% block content_header '' %}
+
+{% block content %}
+    {% set version = constant('Symfony\\Component\\HttpKernel\\Kernel::MAJOR_VERSION') ~ '.' ~ constant('Symfony\\Component\\HttpKernel\\Kernel::MINOR_VERSION')%}
+
+    <h1 class="title">Тестовый проект Степанова Н.М.</h1>
+
+    <p>Тут вы можете авторизоваться или зарегистрироваться:</p>
+
+    <div class="regist">
+            <a href="{{ path('fos_user_security_login') }}">Авторизация</a> | <a href="{{ path('fos_user_registration_register') }}">Регистрация</a>
+    </div>
+<hr>
+    <p>Тут можно работать с товарами и их категориями:</p>
+
+    <div>
+        <a href="{{ path('post_new') }}">Создать товар</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ path('cat') }}">Создать категорию товара</a>
+    </div>
+{% endblock %}

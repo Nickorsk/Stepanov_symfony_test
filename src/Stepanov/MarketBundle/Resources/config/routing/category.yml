@@ -1,0 +1,30 @@
+cat:
+    pattern:  /category/
+    defaults: { _controller: "StepanovMarketBundle:Category:index" }
+
+cat_show:
+    pattern:  /category/{id}/show
+    defaults: { _controller: "StepanovMarketBundle:Category:show" }
+
+cat_new:
+    pattern:  /category/new
+    defaults: { _controller: "StepanovMarketBundle:Category:new" }
+
+cat_create:
+    pattern:  /category/create
+    defaults: { _controller: "StepanovMarketBundle:Category:create" }
+    requirements: { _method: post }
+
+cat_edit:
+    pattern:  /category/{id}/edit
+    defaults: { _controller: "StepanovMarketBundle:Category:edit" }
+
+cat_update:
+    pattern:  /category/{id}/update
+    defaults: { _controller: "StepanovMarketBundle:Category:update" }
+    requirements: { _method: post|put }
+
+cat_delete:
+    pattern:  /category/{id}/delete
+    defaults: { _controller: "StepanovMarketBundle:Category:delete" }
+    requirements: { _method: post|delete }
