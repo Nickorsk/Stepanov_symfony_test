@@ -1,0 +1,35 @@
+{
+    "name": "Stepanov\\MarketBundle\\StepanovMarketBundle",
+    "line": 7,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [
+
+    ],
+    "namespace": "Stepanov\\MarketBundle",
+    "file": "\/var\/www\/symfony2.ru\/src\/Stepanov\/MarketBundle\/StepanovMarketBundle.php",
+    "hash": "89ae968165cbe6000a9e3c5a951afdbf8c781a61",
+    "parent": "Symfony\\Component\\HttpKernel\\Bundle\\Bundle",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "Bundle": "Symfony\\Component\\HttpKernel\\Bundle\\Bundle"
+    },
+    "errors": [
+
+    ],
+    "interfaces": [
+
+    ],
+    "properties": [
+
+    ],
+    "methods": [
+
+    ],
+    "constants": [
+
+    ]
+}

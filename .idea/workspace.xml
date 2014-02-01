@@ -1,9 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e56984ad-7644-44d3-b657-f7ad44bcd404" name="Default" comment="Добавил Sami API doc generator&#10;" />
+    <list default="true" id="e56984ad-7644-44d3-b657-f7ad44bcd404" name="Default" comment="Добавил Sami API doc generator&#10;">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/product/QprWJ2xYNPs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/product/_K0bsVhooIA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/product/p77upClOZA4.jpg" afterPath="" />
+    </list>
+    <list id="262de204-b3f9-44da-bad6-fbcb63f29292" name="Rejected commit: Default" comment="Добавил Sami API doc generator&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/i/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/i/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/i/results_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/i/tree_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/81/87/13b78efd05e4e218885fd49ee7f9595973907e9d43118fa2dc09e9ee2ba9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/64/98/1f052e21645f557d05c2aa1db84b324428af722b395e68eab324bf5c54c6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/1a/1d/27cea675fcc4efc9aacdb131c9915adb062247e079237efc1bdd347ec3e8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/f2/1e/36fb05122ee8812acc2724b1cbb9b4903c22a98d59b1811f71e25f5d8081.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/9c/6a/3ebdbdb935f3084d06254697447eb62a9340252f90e44c813a2a53d9afa7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/68/d9/4a238ee47c5564f0e1cd5d1b22de075673a9e2582729970aa333a1ed19a0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/3e/fc/4ab7d950e0e0818b220e3986ae5fa94cdb1075ba1319f2dcbb674e742c06.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/9a/3a/5e7bec9ea9aa37981624c5be5a1afba2acafea4c915b83b45deb22e9d5f1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/6e/a1/77872c40c0d58243f5bee3d68d452f7fe17328d292cb7d1d9efd3959a467.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/36/3d/88c17b393f0cb1901746c54537fbf65844df17d8c26099d1efdecb2040c7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/2c/a6/98ac0d707ee5f9c446688caaa505c1a64091a8b630fa86330c0ba0681448.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Entity/Category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Controller/CategoryController.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Form/CategoryType.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/DependencyInjection/Configuration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Controller.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Controller/DefaultController.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/DependencyInjection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Entity.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/DependencyInjection/MarketExtension.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/PROJECT_VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/PROJECT_VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Entity/Product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Entity/ProductCategory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Controller/ProductController.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Form/ProductType.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Form/Type/RegistrationFormType.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/SAMI_VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/SAMI_VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Controller/SecurityController.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/StepanovMarketBundle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Form/Type.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Entity/Users.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Controller/WelcomeController.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/76/7f/a29f40413727fb8ab2708ac5610faa6be99ac43d77b2da475c8f3b1a30de.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/4b/6e/b0540602b775950e811f49e3d11253d7e8d4519ef4b9b5ec2b231fedb6b4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/c6/fa/bfea176338dedb74cc006f683ac67c773b7e3cbc34e02f0d260b36b41a34.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_07399ee62cebe6682b0c5ad8f5d54302.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_36c7e37c0faee0100eaac4f329f2d1d1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_435fc679296e4f0f2e9debd5eb65d0a2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_47a19c742531fa4f2a6bfa52d0c55908.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_488c37cea51d7eb63916161b4efed590.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_8d262fcad396fe1d1fd27fc59800954c.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_8ea1adadc762feddb45443e60694ae63.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_a250845ee1bb1427a22ec4fa68a3d36c.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_c04cb9e16a76b079e2ecb02247d74131.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_c84f58e2682dc7418efacc88b16b1040.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_f164614b0e1ce9e13c512e003dc384fe.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_f1e5e9e6c6a5e16acf27a4314ae45436.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_f3455749da02536581c87d9fc2578f29.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_f3cd6beb46111c0d30e15fec4c7ee8aa.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/store/c_f5ab4a9a81290612ca97bf8a9b8a51e3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/classes-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/a8/3a/d4c16372787332aa43cbf337f2877842eae54b8c702b7dde1d2b8b72e22b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/d4/24/db6900de8c672c94955caa8d0d22f1b1b6805940edeae6e6d109e65134c9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/e6/3b/dfe496932eefe57679accfed76399f83511ce415627283c43c3e97cd7710.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/doc-index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/8b/49/e5631084925e689cf065b3f9d9a61be2d583edacb996bc50e184bb70ff7c.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/5a/cd/e5d053d19d0a292944dee5b5525106d8371864567a3e9a75024b5f7a33a9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/aa/12/e96761d901aa70643b230d928c78009e6d61f7b69cbe6b97f2a02439c814.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/cache/twig/55/bd/f0cd3706613d6ceb97004f23e8f5d3468e23674cbfe614de9299cc554d62.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/interfaces.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/js/jquery-1.3.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/namespace-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/namespace-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Controller/namespace-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/DependencyInjection/namespace-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Entity/namespace-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Form/namespace-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/Stepanov/MarketBundle/Form/Type/namespace-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/namespaces-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/namespaces.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/opensearch.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/css/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/panel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/renderer.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sami.config_run.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/search_index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/js/searchdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/traits.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/tree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="symfony2.ru.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
+    <file path="$PROJECT_DIR$/doc/cache/twig/68/d9/4a238ee47c5564f0e1cd5d1b22de075673a9e2582729970aa333a1ed19a0.php" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,29 +125,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="new.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Resources/views/Product/new.html.twig">
+      <file leaf-file-name="sami.config_run.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sami.config_run.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="14" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="615">
+            <state line="16" column="31" selection-start="408" selection-end="408" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="345">
+              <folding>
+                <element signature="e#7#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tree.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/build/tree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Controller/ProductController.php">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/build/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="0" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="3465">
+            <state line="15" column="10" selection-start="653" selection-end="653" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="360">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Product.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Entity/Product.php">
+      <file leaf-file-name="panel.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/build/panel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="128" column="10" selection-start="2215" selection-end="2215" vertical-scroll-proportion="0.0" vertical-offset="1920" max-vertical-offset="3480">
+            <state line="15" column="9" selection-start="830" selection-end="830" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1155">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4a238ee47c5564f0e1cd5d1b22de075673a9e2582729970aa333a1ed19a0.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/cache/twig/68/d9/4a238ee47c5564f0e1cd5d1b22de075673a9e2582729970aa333a1ed19a0.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="24" selection-start="3040" selection-end="3040" vertical-scroll-proportion="0.2123412" vertical-offset="843" max-vertical-offset="2505">
+              <folding>
+                <marker date="1391283485644" expanded="true" signature="547:566" placeholder="..." />
+                <marker date="1391283485644" expanded="true" signature="554:566" placeholder="..." />
+                <marker date="1391283485644" expanded="true" signature="3864:3917" placeholder="..." />
+                <marker date="1391283485644" expanded="true" signature="3896:3917" placeholder="..." />
+                <marker date="1391283485644" expanded="true" signature="4490:4593" placeholder="..." />
+                <marker date="1391283485644" expanded="true" signature="4564:4593" placeholder="..." />
+                <marker date="1391283485644" expanded="false" signature="6268:6279" placeholder="..." />
+                <marker date="1391283485644" expanded="true" signature="6311:6494" placeholder="..." />
+                <marker date="1391283485644" expanded="true" signature="6557:6607" placeholder="..." />
+                <marker date="1391283485644" expanded="true" signature="6574:6592" placeholder="..." />
+                <marker date="1391283485644" expanded="true" signature="6638:6688" placeholder="..." />
+                <marker date="1391283485644" expanded="true" signature="6655:6673" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="opensearch.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/build/opensearch.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoryController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Controller/CategoryController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="205" column="0" selection-start="5742" selection-end="5742" vertical-scroll-proportion="-125.625" vertical-offset="0" max-vertical-offset="3375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_dev.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="540">
+              <folding>
+                <element signature="e#7#52#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,52 +217,18 @@
       <file leaf-file-name="AppKernel.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="12" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="690">
-              <folding />
+            <state line="20" column="12" selection-start="844" selection-end="844" vertical-scroll-proportion="-12.375" vertical-offset="3" max-vertical-offset="690">
+              <folding>
+                <element signature="e#7#47#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sf2.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/sami/sami/examples/sf2.php">
+      <file leaf-file-name="autoload.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/autoload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sami.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bin/sami.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="0.3565365" vertical-offset="0" max-vertical-offset="589">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/bundles/stepanovmarket/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="17" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1155">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Resources/config/routing/product.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="2" selection-start="299" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="555">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductType.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Form/ProductType.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="780">
+            <state line="3" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -122,8 +252,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Symfony/src/Stepanov/MarketBundle/StepanovMarketBundle.php" />
-        <option value="$PROJECT_DIR$/Symfony/app/AppKernel.php" />
         <option value="$PROJECT_DIR$/Symfony/app/config/parameters.yml" />
         <option value="$PROJECT_DIR$/Symfony/src/Stepanov/MarketBundle/Entity/Users.php" />
         <option value="$PROJECT_DIR$/Symfony/src/Stepanov/MarketBundle/Resources/config/doctrine/Users.orm.yml" />
@@ -173,6 +301,8 @@
         <option value="$PROJECT_DIR$/src/Stepanov/MarketBundle/Resources/views/Product/new.html.twig" />
         <option value="$PROJECT_DIR$/src/Stepanov/MarketBundle/Entity/Product.php" />
         <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/sami.config_run.php" />
+        <option value="$PROJECT_DIR$/doc/cache/twig/68/d9/4a238ee47c5564f0e1cd5d1b22de075673a9e2582729970aa333a1ed19a0.php" />
       </list>
     </option>
   </component>
@@ -237,138 +367,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stepanovmarket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stepanovmarket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sensiodistribution" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webconfigurator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -436,352 +434,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Welcome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Product" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Category" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doctrine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Entity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="symfony2.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepanov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DependencyInjection" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -821,7 +473,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bin" />
+              <option name="myItemId" value="doc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -835,7 +487,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="bin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -904,23 +556,23 @@
     <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299595" sideWeight="0.49973047" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24743935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24743935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299595" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299595" sideWeight="0.50026953" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299595" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -968,55 +620,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Resources/views/Product/new.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="14" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Controller/ProductController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="3465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Entity/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="128" column="10" selection-start="2215" selection-end="2215" vertical-scroll-proportion="0.0" vertical-offset="1920" max-vertical-offset="3480">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="12" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="690">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/sami/sami/examples/sf2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/sami.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/bundles/stepanovmarket/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="17" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Resources/config/routing/product.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="2" selection-start="299" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="555">
@@ -1055,7 +658,9 @@
     <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="12" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="675">
-          <folding />
+          <folding>
+            <element signature="e#7#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1125,7 +730,9 @@
     <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="14" selection-start="846" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="660">
-          <folding />
+          <folding>
+            <element signature="e#7#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1194,11 +801,6 @@
         <state line="10" column="48" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="330" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Controller/CategoryController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="0" selection-start="5742" selection-end="5742" vertical-scroll-proportion="-128.125" vertical-offset="0" max-vertical-offset="3435" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Form/CategoryType.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="660" />
@@ -1254,13 +856,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="12" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="690">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/sami/sami/examples/sf2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
@@ -1277,8 +872,97 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/sami.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="0.3565365" vertical-offset="0" max-vertical-offset="589">
+        <state line="4" column="54" selection-start="107" selection-end="107" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="300">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="540">
+          <folding>
+            <element signature="e#7#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="12" selection-start="844" selection-end="844" vertical-scroll-proportion="-12.375" vertical-offset="3" max-vertical-offset="690">
+          <folding>
+            <element signature="e#7#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stepanov/MarketBundle/Controller/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="205" column="0" selection-start="5742" selection-end="5742" vertical-scroll-proportion="-125.625" vertical-offset="0" max-vertical-offset="3375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sami.config_run.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="31" selection-start="408" selection-end="408" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="345">
+          <folding>
+            <element signature="e#7#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/build/tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="10" selection-start="653" selection-end="653" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/build/panel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="9" selection-start="830" selection-end="830" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1155">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/build/opensearch.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/cache/twig/68/d9/4a238ee47c5564f0e1cd5d1b22de075673a9e2582729970aa333a1ed19a0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="24" selection-start="3040" selection-end="3040" vertical-scroll-proportion="0.2123412" vertical-offset="843" max-vertical-offset="2505">
+          <folding>
+            <marker date="1391283485644" expanded="true" signature="547:566" placeholder="..." />
+            <marker date="1391283485644" expanded="true" signature="554:566" placeholder="..." />
+            <marker date="1391283485644" expanded="true" signature="3864:3917" placeholder="..." />
+            <marker date="1391283485644" expanded="true" signature="3896:3917" placeholder="..." />
+            <marker date="1391283485644" expanded="true" signature="4490:4593" placeholder="..." />
+            <marker date="1391283485644" expanded="true" signature="4564:4593" placeholder="..." />
+            <marker date="1391283485644" expanded="false" signature="6268:6279" placeholder="..." />
+            <marker date="1391283485644" expanded="true" signature="6311:6494" placeholder="..." />
+            <marker date="1391283485644" expanded="true" signature="6557:6607" placeholder="..." />
+            <marker date="1391283485644" expanded="true" signature="6574:6592" placeholder="..." />
+            <marker date="1391283485644" expanded="true" signature="6638:6688" placeholder="..." />
+            <marker date="1391283485644" expanded="true" signature="6655:6673" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

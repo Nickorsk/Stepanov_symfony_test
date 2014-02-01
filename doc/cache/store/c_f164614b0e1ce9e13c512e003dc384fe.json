@@ -1,0 +1,203 @@
+{
+    "name": "Stepanov\\MarketBundle\\Entity\\ProductCategory",
+    "line": 10,
+    "short_desc": "ProductCategory",
+    "long_desc": "",
+    "hint": null,
+    "tags": [
+
+    ],
+    "namespace": "Stepanov\\MarketBundle\\Entity",
+    "file": "\/var\/www\/symfony2.ru\/src\/Stepanov\/ProductCategory.php",
+    "hash": "7ca4ebbb5a1b939ed1366a86964b933c5ee02093",
+    "parent": null,
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "ORM": "Doctrine\\ORM\\Mapping"
+    },
+    "errors": [
+
+    ],
+    "interfaces": [
+
+    ],
+    "properties": [
+
+    ],
+    "methods": {
+        "getId": {
+            "name": "getId",
+            "line": 33,
+            "short_desc": "Get id",
+            "long_desc": "",
+            "hint": [
+                [
+                    "integer",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [
+
+            ],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [
+
+            ],
+            "errors": [
+
+            ],
+            "parameters": [
+
+            ]
+        },
+        "setProduct": {
+            "name": "setProduct",
+            "line": 44,
+            "short_desc": "Set Product",
+            "long_desc": "",
+            "hint": [
+                [
+                    "Stepanov\\MarketBundle\\Entity\\ProductCategory",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [
+
+            ],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [
+
+            ],
+            "errors": [
+
+            ],
+            "parameters": {
+                "product": {
+                    "name": "product",
+                    "line": 44,
+                    "short_desc": "",
+                    "long_desc": null,
+                    "hint": [
+                        [
+                            "Stepanov\\MarketBundle\\Entity\\Stepanov\\MarketBundle\\Entity\\Product",
+                            false
+                        ]
+                    ],
+                    "tags": [
+
+                    ],
+                    "modifiers": "Stepanov\\MarketBundle\\Entity\\Product",
+                    "default": "null",
+                    "is_by_ref": false
+                }
+            }
+        },
+        "getProduct": {
+            "name": "getProduct",
+            "line": 56,
+            "short_desc": "Get product",
+            "long_desc": "",
+            "hint": [
+                [
+                    "\\Stepanov\\MarketBundle\\Entity\\Product",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [
+
+            ],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [
+
+            ],
+            "errors": [
+
+            ],
+            "parameters": [
+
+            ]
+        },
+        "setCategory": {
+            "name": "setCategory",
+            "line": 67,
+            "short_desc": "Set category",
+            "long_desc": "",
+            "hint": [
+                [
+                    "Stepanov\\MarketBundle\\Entity\\ProductCategory",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [
+
+            ],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [
+
+            ],
+            "errors": [
+
+            ],
+            "parameters": {
+                "category": {
+                    "name": "category",
+                    "line": 67,
+                    "short_desc": "",
+                    "long_desc": null,
+                    "hint": [
+                        [
+                            "Stepanov\\MarketBundle\\Entity\\Stepanov\\MarketBundle\\Entity\\Category",
+                            false
+                        ]
+                    ],
+                    "tags": [
+
+                    ],
+                    "modifiers": "Stepanov\\MarketBundle\\Entity\\Category",
+                    "default": "null",
+                    "is_by_ref": false
+                }
+            }
+        },
+        "getCategory": {
+            "name": "getCategory",
+            "line": 79,
+            "short_desc": "Get category",
+            "long_desc": "",
+            "hint": [
+                [
+                    "\\Stepanov\\MarketBundle\\Entity\\Category",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [
+
+            ],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [
+
+            ],
+            "errors": [
+
+            ],
+            "parameters": [
+
+            ]
+        }
+    },
+    "constants": [
+
+    ]
+}

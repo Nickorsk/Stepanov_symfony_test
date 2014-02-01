@@ -1,0 +1,101 @@
+{
+    "name": "Stepanov\\MarketBundle\\Controller\\SecurityController",
+    "line": 16,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [
+
+    ],
+    "namespace": "Stepanov\\MarketBundle\\Controller",
+    "file": "\/var\/www\/symfony2.ru\/src\/Stepanov\/MarketBundle\/Controller\/SecurityController.php",
+    "hash": "bd32edbff588b1cb6b131e8dbddaeeff724fbfb3",
+    "parent": "FOS\\UserBundle\\Controller\\RegistrationController",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "SecurityContext": "Symfony\\Component\\Security\\Core\\SecurityContext",
+        "BaseController": "FOS\\UserBundle\\Controller\\RegistrationController"
+    },
+    "errors": [
+
+    ],
+    "interfaces": [
+
+    ],
+    "properties": [
+
+    ],
+    "methods": {
+        "loginAction": {
+            "name": "loginAction",
+            "line": 18,
+            "short_desc": "",
+            "long_desc": "",
+            "hint": null,
+            "hint_desc": null,
+            "tags": [
+
+            ],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [
+
+            ],
+            "errors": [
+
+            ],
+            "parameters": [
+
+            ]
+        },
+        "checkAction": {
+            "name": "checkAction",
+            "line": 67,
+            "short_desc": "",
+            "long_desc": "",
+            "hint": null,
+            "hint_desc": null,
+            "tags": [
+
+            ],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [
+
+            ],
+            "errors": [
+
+            ],
+            "parameters": [
+
+            ]
+        },
+        "logoutAction": {
+            "name": "logoutAction",
+            "line": 72,
+            "short_desc": "",
+            "long_desc": "",
+            "hint": null,
+            "hint_desc": null,
+            "tags": [
+
+            ],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [
+
+            ],
+            "errors": [
+
+            ],
+            "parameters": [
+
+            ]
+        }
+    },
+    "constants": [
+
+    ]
+}

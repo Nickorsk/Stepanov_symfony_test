@@ -1,0 +1,93 @@
+{
+    "name": "Stepanov\\MarketBundle\\Entity\\Users",
+    "line": 19,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": {
+        "ORM\\Entity\n": [
+            [
+                "@ORM\\Table(name=\"_users\")"
+            ]
+        ]
+    },
+    "namespace": "Stepanov\\MarketBundle\\Entity",
+    "file": "\/var\/www\/symfony2.ru\/src\/Stepanov\/MarketBundle\/Entity\/Users.php",
+    "hash": "3afbbccc7c88786340a7052803af9985c548e3d2",
+    "parent": "FOS\\UserBundle\\Entity\\User",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "ORM": "Doctrine\\ORM\\Mapping",
+        "BaseUser": "FOS\\UserBundle\\Entity\\User"
+    },
+    "errors": [
+
+    ],
+    "interfaces": [
+
+    ],
+    "properties": [
+
+    ],
+    "methods": {
+        "getId": {
+            "name": "getId",
+            "line": 34,
+            "short_desc": "Get id",
+            "long_desc": "",
+            "hint": [
+                [
+                    "integer",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [
+
+            ],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [
+
+            ],
+            "errors": [
+
+            ],
+            "parameters": [
+
+            ]
+        },
+        "__construct": {
+            "name": "__construct",
+            "line": 47,
+            "short_desc": "Set FIO",
+            "long_desc": "",
+            "hint": [
+                [
+                    "Stepanov\\MarketBundle\\Entity\\Users",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [
+
+            ],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [
+
+            ],
+            "errors": [
+                "\"1\" @param tags are defined by \"0\" are expected"
+            ],
+            "parameters": [
+
+            ]
+        }
+    },
+    "constants": [
+
+    ]
+}
